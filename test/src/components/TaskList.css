@@ -1,0 +1,13 @@
+.completed-task {
+    background-color: rgba(0,250,0,.3);
+    border-radius: 15px;
+  }
+  
+.incomplete-task {
+    background-color: rgba(250,0,0,.3);
+    border-radius: 15px;
+}
+
+ul {
+    list-style-type: none;
+}
